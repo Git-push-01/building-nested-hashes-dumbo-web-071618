@@ -18,11 +18,11 @@ def second_challenge
    {:name => "Nurse", :age => "44", :attitude => "worried"
    }
  ]
-   },
+   }
 
-  },
+  }
       #your key/value pairs here!
-      }}
+      
 
 
 end
